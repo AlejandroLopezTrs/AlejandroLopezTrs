@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Alejandro Lopez Torres. 
+I reside in Southern California and I am currently working on becoming a software developer.
+To persue this goal, I am currently enrolled in Tech Elevator.
+I am currentky learning as many aspects of software development as I possible can including different languages, how to use Git Hub, and Visual Code Studio.
+Fun fact, I have many hobbies involving the outdoors such as camping, hiking, fishing, and gardening.
